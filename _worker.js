@@ -153,7 +153,6 @@ export default {
 			pathname.includes('/v2/_catalog'),
 			pathname.includes('/v2/categories'),
 			pathname.includes('/v2/feature-flags'),
-			pathname.includes('search'),
 			pathname.includes('source'),
 			pathname === '/',
 			pathname === '/favicon.ico',
